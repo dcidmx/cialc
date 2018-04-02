@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /codex/
+Disallow: /frontend/
+Disallow: /fw7/
+Disallow: /material/
+Disallow: /plugs/
+Disallow: /tmp/
+Disallow: /videos/
+Disallow: /plugs/
+Disallow: /.htaccess
+Disallow: /.sitemap.xsl
+Allow: /sitemap.xml

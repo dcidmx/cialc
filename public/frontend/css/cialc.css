@@ -1,0 +1,269 @@
+#procesando{
+	position:relative;
+	height:600px;
+	display:none;
+}
+#loader_hide{
+  background-color:#fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.page-title-wrap {
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	background: #1c5d6c;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 1200px;
+	height:90px;
+
+}
+.page-title-wrap h2{
+	color:#ffffff;
+}
+.page-title {
+	position: relative;
+       top: 25px;
+       text-align: center;
+       font-variant: petite-caps;
+}
+
+#dinamic_search_loader{
+	position:relative;
+	height:600px;
+	display:none;
+}
+#search_hide{
+  background-color:#fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.pdfdown{
+	position:relative;
+	float:right;
+	right:100px;
+	top:-80px;
+}
+.pdfdown img{
+	width:60px;
+}
+.load-content{
+	cursor: pointer;
+}
+.imgfloat{
+	float:right;
+	width:400px;
+	border:1px solid #cdcdcd;
+	margin:20px;
+	padding:10px;
+}
+.shell .breadcrumb .load-content .fa{
+	color:#217ED3;
+	font-size:1.2em;
+}
+.shell .breadcrumb .load-content{
+	color:#217ED3;
+}
+.section-sm-50{
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+.imgportadaep2{
+	padding:10px;
+	margin:10px;
+	border:1px solid #cdcdcd;
+	width:150px;
+}
+.numberep2{
+	font-family: "Playfair Display", "Times New Roman", Times, serif;
+  font-style: italic;
+  font-weight: 700;
+  line-height: inherit;
+	color: #000;
+	font-size: 2em;
+	text-transform: lowercase;
+	margin-left:0px !important;
+}
+/*CUADERNOS AMERICANOS NUEVA EPOCA*/
+.titulo{
+	text-transform: capitalize;
+	font-size:1.3em;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+.calink{
+	font-size:1.4em;
+	margin-left:30px;
+	margin-top:0px;
+	color:#0085ff;
+}
+.nombre{
+	font-variant: small-caps;
+	font-style: italic;
+	font-weight: 700;
+	font-size:1.2em;
+	margin-left:50px;
+	margin-top:0px;
+	margin-bottom: 20px;
+	color:#929292;
+}
+.imgfloat{
+	width:200px;
+}
+.indextitle{
+	font-family: "Playfair Display", "Times New Roman", Times, serif;
+  font-style: italic;
+  font-weight: 700;
+  line-height: inherit;
+	color: #000;
+	font-size: 2em;
+	text-transform: lowercase;
+	margin-left:0px !important;
+}
+.page {
+    padding-bottom: 0px;
+}
+
+/*PC*/
+@media screen and (min-width: 767px) {
+    .logocialc {
+	   z-index:50;
+	   visibility:visible;
+	   display:block !important;
+    }
+    .logocialcm{
+   	visibility:hidden;
+	display:none !important;
+    }
+
+}
+/*Tablet*/
+@media (min-width: 767px) and (max-width: 991px) {
+    .logocialc {
+	visibility: hidden;
+	display: none !important;
+    }
+    .logocialcm{
+	    height: 50px;
+    	z-index:50;
+	visibility:visible;
+	display:block !important;
+    }
+}
+/*CellPhone*/
+@media (max-width: 767px) {
+    .logocialc {
+		visibility: hidden;
+		display: none !important;
+    }
+	.image-group figure:nth-child(1) {
+	    top: -150px;
+	    left: 220px;
+	}
+	.image-group figure:nth-child(2) {
+	    top: -16px;
+	}
+	.pdfdown{
+	    right: 20px;
+	    top: -50px;
+	}
+	.logocialcm{
+		height: 35px;
+		z-index: 50;
+		top: 5px;
+		position: relative;
+   	       visibility:visible;
+		display:block !important;
+       }
+}
+.rd-navbar-group{
+	border-bottom: 2px solid #c5911f;
+	padding: 5px 0px 5px 0px !important;
+}
+.rd-navbar-static .rd-navbar-megamenu{
+	margin-top: 10px;
+}
+.rd-navbar-static .rd-navbar-nav > li > .rd-navbar-dropdown{
+	margin-top:10px;
+}
+.menu-main-cialc {
+    padding: 5px 0px 5px 0px;
+    background-color: #FFF;
+}
+.rd-navbar-corporate-light.rd-navbar-static .rd-navbar-nav-inner{
+	background-color: #1c3d6c;
+}
+.rd-navbar-static .rd-navbar-nav > li > a{
+	color: #fff;
+}
+.rd-navbar-static .rd-navbar-nav > li > .rd-navbar-submenu-toggle::after, .rd-navbar-fullwidth .rd-navbar-nav > li > .rd-navbar-submenu-toggle::after {
+    color: #FFFFFF;
+}
+.rd-navbar-static .rd-navbar-nav > li > a:after, .rd-navbar-fullwidth .rd-navbar-nav > li > a:after {
+    background: #c5911f;
+}
+.rd-navbar-static .rd-navbar-nav > li.focus > .rd-navbar-submenu-toggle::after, .rd-navbar-static .rd-navbar-nav > li.opened > .rd-navbar-submenu-toggle::after, .rd-navbar-static .rd-navbar-nav > li > a:hover + .rd-navbar-submenu-toggle::after, .rd-navbar-fullwidth .rd-navbar-nav > li.focus > .rd-navbar-submenu-toggle::after, .rd-navbar-fullwidth .rd-navbar-nav > li.opened > .rd-navbar-submenu-toggle::after, .rd-navbar-fullwidth .rd-navbar-nav > li > a:hover + .rd-navbar-submenu-toggle::after {
+    color: #FFFFFF;
+}
+.rd-navbar-static .rd-navbar-dropdown, .rd-navbar-static .rd-navbar-megamenu, .rd-navbar-fullwidth .rd-navbar-dropdown, .rd-navbar-fullwidth .rd-navbar-megamenu {
+    border-top: 3px solid #1c3d6c;
+    border-bottom: 2px solid #1c3d6c;
+}
+
+
+.shell,
+.shell-wide,
+.shell-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.shell h2{
+	    font-size: 40px;
+}
+.shell,
+.shell-wide {
+    min-width: 300px;
+    max-width: 480px;
+    margin-top: -30px;
+}
+
+@media (min-width: 768px) {
+    .shell,
+    .shell-wide {
+        max-width: 750px;
+    }
+}
+
+@media (min-width: 992px) {
+    .shell,
+    .shell-wide {
+        max-width: 970px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .shell,
+    .shell-wide {
+        max-width: 1200px;
+    }
+}
+
+@media (min-width: 1800px) {
+    .shell-wide {
+        max-width: 1800px;
+    }
+}
+.container{
+	padding-left: 0px;
+	padding-right: 0px;
+}
