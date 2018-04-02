@@ -1,5 +1,5 @@
 <?php
-define('DEVELOPMENT', true, true);
+define('DEVELOPMENT', false, true);
 define('DIR_FILES','/var/www/html/cialc',true);
 
 define('DB_TYPE', 'mysql');
