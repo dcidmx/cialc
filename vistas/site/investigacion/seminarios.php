@@ -1,4 +1,4 @@
-<div style="background-image: url('frontend/images/america-latina.png'); background-repeat: no-repeat; background-position: right top; background-opacity: 0.1;">
+<div style="background-image: url('frontend/images/sem_back.png'); background-repeat: no-repeat; background-position: right top; background-opacity: 0.1;">
 <section class="page-title-wrap">
   <div class="shell">
     <div class="page-title">
