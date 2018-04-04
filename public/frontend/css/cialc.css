@@ -267,3 +267,16 @@
 	padding-left: 0px;
 	padding-right: 0px;
 }
+
+@media (max-width: 1200px) {
+	#backhistory {
+		top: -25px;
+		left:180px;
+	  position: relative;
+	}
+	#forwardhistory {
+		top: -29px;
+		left:210px;
+	  position: relative;
+	}
+}

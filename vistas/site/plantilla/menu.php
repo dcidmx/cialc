@@ -15,14 +15,15 @@
 	</div>
 </div>
 <div  class="menu-main-cialc">
+
 	<div class="rd-navbar-nav-wrap">
 		<div class="rd-navbar-nav-inner">
 			<ul class="rd-navbar-nav">
-				<li><a id="backhistoryx" style="color:#366ebd; display:none;"><</a></li>
-				<li><a id="forwardhistoryx" style="color:#366ebd; display:none;">></a></li>
+
+				<li style="position:absolute;  left:0px;"><a id="backhistory" style="display:none; cursor: pointer;"><i style="font-size: 1.4em;" class="fa fa-chevron-circle-left" aria-hidden="true"></i></a></li>
+				<li style="position:absolute;  left:0px;"><a id="forwardhistory" style="display:none; cursor: pointer;"><i style="font-size: 1.4em;" class="fa fa-chevron-circle-right" aria-hidden="true"></i></a></li>
+
 				<li><a href="javascript:;" data-file="index" data-folder="inicio" data-process="inicio" class="chargemenu">Inicio</a></li>
-
-
 				<li><a href="javascript:;">Nosotros</a>
 					<ul class="rd-navbar-megamenu">
 						<li>
