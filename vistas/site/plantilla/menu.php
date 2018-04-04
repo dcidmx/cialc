@@ -18,6 +18,8 @@
 	<div class="rd-navbar-nav-wrap">
 		<div class="rd-navbar-nav-inner">
 			<ul class="rd-navbar-nav">
+				<li><a id="backhistoryx" style="color:#366ebd; display:none;"><</a></li>
+				<li><a id="forwardhistoryx" style="color:#366ebd; display:none;">></a></li>
 				<li><a href="javascript:;" data-file="index" data-folder="inicio" data-process="inicio" class="chargemenu">Inicio</a></li>
 
 
