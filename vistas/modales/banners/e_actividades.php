@@ -164,7 +164,7 @@
  					 url: "banneractividades/upload_dropzone2/<?=$ban->id?>",
  					 paramName: "file",
  					 maxFiles: 1,
- 					 maxFilesize: 5, // MB
+ 					 maxFilesize: 20, // MB 
  					 acceptedFiles: "image/*",
  					 accept: function(file, done) {
  							 //console.log(file);

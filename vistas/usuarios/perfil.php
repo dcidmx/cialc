@@ -217,7 +217,7 @@ $(document).ready(function() {
     url: "usuarios/upload_dropzone/<?=$_SESSION['id_usuario']?>",<?php //usuarios/upload_dropzone/estructura|del|directorio/permisos ?>
     paramName: "file",
     maxFiles: 1,
-    maxFilesize: 5, // MB
+    maxFilesize: 20, // MB
     acceptedFiles: "image/*",
     accept: function(file, done) {
         //console.log(file);
