@@ -35,7 +35,7 @@
                         <br><a href="http://www.humanidades.unam.mx/becas-posdoctorales" target="_blank" class="btn btn-default"></i> Becas Posdoctorales de la UNAM </a>
                     </p>
                     <p class="just">
-                          La próxima fecha límite para recibir solicitudes en el CIALC es el 16 de marzo del 2018.
+                          La próxima fecha límite para recibir solicitudes en el CIALC es el 1 de marzo del 2019.
                     </p>
 
                     <div class="col-md-6 just">

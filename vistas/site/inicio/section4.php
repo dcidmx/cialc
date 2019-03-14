@@ -1,6 +1,7 @@
 <section class="section-50 section-lg-top-50">
        <div class="shell">
               <div class="text-center">
+              	
                   <a target="_blank" href="https://www.facebook.com/cialc.unam/">
                          <img class="redondeado" src="<?=URL_PUBLIC?>frontend/images/circle_facebook.png" title="Página oficial de Facebook" width="64"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   </a>
@@ -13,17 +14,33 @@
                   <a target="_blank" href="https://www.facebook.com/pg/cialc.unam/videos/?ref=page_internal">
                          <img class="redondeado" src="<?=URL_PUBLIC?>frontend/images/fbv.png" title="Videos en directo Facebook" alt="" width="64"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   </a>
+                  <a target="_blank" href='http://www.librosoa.unam.mx/browse?type=entity&value=Centro+de+Investigaciones+sobre+Am%C3%A9rica+Latina+y+el+Caribe' target="_blank">
+                         <img class="redondeado" src="<?=URL_PUBLIC?>frontend/images/libros-unam.png" title="Libros UNAM-Open access" width="64"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  </a>
+                  
+                  <a target="_blank" href='http://www.dgcs.unam.mx/mesas.html' target="_blank">
+                         <img class="redondeado" src="<?=URL_PUBLIC?>frontend/images/mesas-seguridadygenero-invita.png" title="Mesas Seguridad y género" width="300"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  </a>
+                  
+                  <a target="_blank" href="http://kiosko.net/iba/">
+                         <img class="redondeado" src="<?=URL_PUBLIC?>frontend/images/kiosko64.png" data-placement="bottom" title="Periódicos relevantes de América Latina" alt="" width="64"/>
+                  </a>
+                  
               </div>
               <br><br>
               <div class="range offset-top-10">
 
-                    <div class="cell-xs-6 cell-sm-2 offset-top-30 offset-sm-top-0">
-                           <div class="link-image-wrap">
-                                  <a href="javascript:;" data-file="solar" data-folder="nosotros|internacionales" class="load-content link-image">
+                   <div class="cell-xs-6 cell-sm-2 offset-top-30 offset-sm-top-0">
+                          <div class="link-image-wrap">
+                           	<a href="javascript:;" data-file="solar" data-folder="nosotros|internacionales" class="load-content link-image">
+                              
+  	                         
                                          <img class="redondeado" src="<?=URL_PUBLIC?>frontend/images/solar128.png" alt="" style="width:100px !important;"/>
                                   </a>
                            </div>
                     </div>
+                   
+                   
                     <div class="cell-xs-6 cell-sm-2 offset-top-30 offset-sm-top-0">
                            <div class="link-image-wrap">
                                   <a href="javascript:;" data-file="fiealc" data-folder="nosotros|internacionales" class="load-content link-image">

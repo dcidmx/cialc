@@ -284,8 +284,8 @@
 									<td><a href="<?=URL_PUBLIC?>ca/CuadernosAmericanos.1958.1/CuadernosAmericanos.1958.1.pdf" target="_blank"><img class="imgportadaep2"src="<?=URL_PUBLIC?>frontend/images/cuadernos/portadas_ep1/ca_portada-097.jpg"></a></td>
 									<td><a href="<?=URL_PUBLIC?>ca/CuadernosAmericanos.1958.2/CuadernosAmericanos.1958.2.pdf" target="_blank"><img class="imgportadaep2"src="<?=URL_PUBLIC?>frontend/images/cuadernos/portadas_ep1/ca_portada-098.jpg"></a></td>
 									<td><a href="<?=URL_PUBLIC?>ca/CuadernosAmericanos.1958.3/CuadernosAmericanos.1958.3.pdf" target="_blank"><img class="imgportadaep2"src="<?=URL_PUBLIC?>frontend/images/cuadernos/portadas_ep1/ca_portada-099.jpg"></a></td>
-									<td><a href="<?=URL_PUBLIC?>ca/CuadernosAmericanos.1958.1/CuadernosAmericanos.1958.1.pdf" target="_blank"><img class="imgportadaep2"src="<?=URL_PUBLIC?>frontend/images/cuadernos/portadas_ep1/ca_portada-100.jpg"></a></td>
-									<td><a href="<?=URL_PUBLIC?>ca/CuadernosAmericanos.1958.1/CuadernosAmericanos.1958.1.pdf" target="_blank"><img class="imgportadaep2"src="<?=URL_PUBLIC?>frontend/images/cuadernos/portadas_ep1/ca_portada-101.jpg"></a></td>
+									<td><a href="<?=URL_PUBLIC?>ca/CuadernosAmericanos.1958.100/CuadernosAmericanos.1958.100.pdf" target="_blank"><img class="imgportadaep2"src="<?=URL_PUBLIC?>frontend/images/cuadernos/portadas_ep1/ca_portada-100.jpg"></a></td>
+									<td><a href="<?=URL_PUBLIC?>ca/CuadernosAmericanos.1958.100/CuadernosAmericanos.1958.100.pdf" target="_blank"><img class="imgportadaep2"src="<?=URL_PUBLIC?>frontend/images/cuadernos/portadas_ep1/ca_portada-101.jpg"></a></td>
 									<td><a href="<?=URL_PUBLIC?>ca/CuadernosAmericanos.1958.6/CuadernosAmericanos.1958.6.pdf" target="_blank"><img class="imgportadaep2"src="<?=URL_PUBLIC?>frontend/images/cuadernos/portadas_ep1/ca_portada-102.jpg"></a></td>
 									</tr>
 									<tr>

@@ -121,10 +121,16 @@
 					  <table class="table table-primary">
 					    <tbody>
 					      <tr>
+					        <td><a href="javascript:;" data-file="CA-164" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num164portada.jpg"></a></td>
+					        <td><a href="javascript:;" data-file="CA-165" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num165portada.jpg"></a></td>
+					        <td><a href="javascript:;" data-file="CA-166" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num166portada.jpg"></a></td>
+					        
+					      </tr>
+					      <tr>
 					        <td><a href="javascript:;" data-file="CA-160" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num160portada.jpg"></a></td>
-					        <td></td>
-					        <td></td>
-					        <td></td>
+					        <td><a href="javascript:;" data-file="CA-161" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num161portada.jpg"></a></td>
+					        <td><a href="javascript:;" data-file="CA-1622" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num162portada.jpg"></a></td>
+					        <td><a href="javascript:;" data-file="CA-163" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num163portada.jpg"></a></td>
 					      </tr>
 					      <tr>
 					        <td><a href="javascript:;" data-file="CA-156" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num156portada.jpg"></a></td>

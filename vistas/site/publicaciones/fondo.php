@@ -33,13 +33,31 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h4 class="center">CATÁLOGOS DE LAS COLECCIONES PUBLICADAS</h4>
+                <h4 class="center">CATÁLOGOS DE LAS PUBLICACIONES</h4>
                 <p>
                   <br>
                 </p>
             </div>
         </div>
         <div class="row">
+        	
+            <div class="col-md-4">
+                <div class="feature-box">
+                    <div class="feature-icon animate" data-animation-options="{&quot;animation&quot;:&quot;fadeInLeft&quot;, &quot;duration&quot;:&quot;600&quot;}" style="opacity: 1; animation-fill-mode: both; animation-duration: 1.2s; animation-delay: 0s; animation-name: fadeInLeft;">
+                        <a href="<?=URL_PUBLIC?>frontend/pdf/fondo_editorial/cat-filo-historia-ideas.pdf" target="_blank"><i class="fa fa-book" style="font-size:2.3em !important; color:<?=sprintf('#%06X', mt_rand(0, 0xFFFFFF));?>"></i></a>
+                    </div>
+                    <div class="feature-info">
+                        <a href="<?=URL_PUBLIC?>frontend/pdf/fondo_editorial/cat-filo-historia-ideas.pdf" target="_blank"><h4>Filosofía e historia de las ideas</h4></a>
+                        <p>
+                            Las obras aquí reunidas  son el resultado del estudio y discernimiento de una idea "de" ideas o, en palabras de José Gaos, una idea "…compuesta, y muy complicadamente, de muchas otras, aunque sólo fuesen por la complejidad de su objeto: el mundo natural, humano" de esta América a la que pertenecemos.​
+                        </p>
+                    </div>
+                </div>
+            </div>        	
+        	
+        	
+        	
+        	
             <div class="col-md-4">
                 <div class="feature-box">
                     <div class="feature-icon animate" data-animation-options="{&quot;animation&quot;:&quot;fadeInLeft&quot;, &quot;duration&quot;:&quot;600&quot;}" style="opacity: 1; animation-fill-mode: both; animation-duration: 1.2s; animation-delay: 0s; animation-name: fadeInLeft;">
@@ -229,10 +247,5 @@
         </div>
     </div>
 </section>
-<script>
-$( document ).ready(function() {
-  alerta('Sitio en construcción','Próxima actualización de Fondo editorial CIALC');
-});
-</script>
 
 <br><br><br><br><br>

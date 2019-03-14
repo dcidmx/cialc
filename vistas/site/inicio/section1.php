@@ -5,7 +5,7 @@
                             <div class="pleca"><div class="pleca_va">ACTIVIDADES Y CONVOCATORIAS</div></div>
 
 
-                            <div class="events_container">
+                            <div class="swiper-container">
                                    <div class="swiper-wrapper masio2" style="height:300px; vertical-align:top;" itemscope itemtype="http://schema.org/ImageGallery">
                                      <?php
                                        foreach($banners_act as $num => $banner){
@@ -27,7 +27,7 @@
                      <div class="col-md-3">
                             <!-- Swiper -->
                             <div class="offset-top-0 offset-sm-top-0">
-                                   <a data-caption-animate="fadeInUp" data-caption-delay="250" href="http://biblio.unam.mx/cialc/" target="_blank"class="btn btn-xl fadeInUp animated bkgd-biblioteca">&nbsp;</a>
+                                   <a data-caption-animate="fadeInUp" data-caption-delay="250" href="http://cialc.bibliotecas.unam.mx/" target="_blank"class="btn btn-xl fadeInUp animated bkgd-biblioteca">&nbsp;</a>
                                    <a data-caption-animate="fadeInUp" data-caption-delay="250" href="http://www.revistadeestlat.unam.mx/index.php/latino" target="_blank" class="btn btn-xl  fadeInUp animated bkgd-revista">&nbsp;</a>
                                    <a data-caption-animate="fadeInUp" data-caption-delay="250" href="javascript:;" data-file="index" data-folder="cuadernos" class="load-content btn btn-xl  fadeInUp animated bkgd-cuadernos">&nbsp;</a>
                                    <a data-caption-animate="fadeInUp" data-caption-delay="250" href="javascript:;" data-file="index" data-folder="proyectos" class="load-content btn btn-xl  fadeInUp animated bkgd-digital">&nbsp;</a>

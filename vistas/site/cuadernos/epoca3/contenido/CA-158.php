@@ -60,7 +60,7 @@ GENEALOGÍAS Y RECONSTRUCCIONES CRÍTICAS</h4>
   <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca158-15.pdf" target="_blank">Presentación </a>
   <h5 class="nombre">Santiago CARASSALE REAL y Lucila NAVARRETE TURRENT 11</h5>
   
-  <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca157-15.pdf" target="_blank">La transculturación y el método en el Contrapunteo cubano del tabaco y el azúcar</a>
+  <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca158-15.pdf" target="_blank">La transculturación y el método en el Contrapunteo cubano del tabaco y el azúcar</a>
   <h5 class="nombre">David GÓMEZ ARREDONDO 15</h5>
   
   <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca158-27.pdf" target="_blank">El romanticismo y las fronteras de la transculturación </a>

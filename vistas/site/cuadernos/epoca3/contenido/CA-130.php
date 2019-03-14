@@ -67,8 +67,8 @@
   <h4 class="titulo">BICENTENARIO DE LA INDEPENDENCIA</h4>
   <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca130-105.pdf" target="_blank">Aquel Bolívar mexicano</a>
   <h5 class="nombre">Coco Manto 105</h5>
-  <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca130-109.pdf" target="_blank">La invención lírica de la nación: los himnos nacionales de Centroamérica</a>
-  <h5 class="nombre">Leonel Alvarado 109</h5>
+  <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca130-111.pdf" target="_blank">La independencia de la Nueva Granada</a>
+  <h5 class="nombre">Rodrigo Rafael ESPINO HERNÁNDEZ 111</h5>
   <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca130-137.pdf" target="_blank">El Caribe insular, el azúcar y las luchas campesinas</a>
   <h5 class="nombre">Margarita Vargas Canales 137</h5>
   <h4 class="titulo">AVENTURA DEL PENSAMIENTO</h4>

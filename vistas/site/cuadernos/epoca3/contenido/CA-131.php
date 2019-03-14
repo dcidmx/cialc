@@ -72,8 +72,8 @@
   <h4 class="titulo">AVENTURA DEL PENSAMIENTO</h4>
   <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca131-159.pdf" target="_blank">El "conflicto mexicano" en 1914: la visión de un académico argentino</a>
   <h5 class="nombre">Gloria Villegas Moreno 159</h5>
-  <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca131-169.pdf" target="_blank">El horizonte latinoamericano: ensayos en la revista Nosotros</a>
-  <h5 class="nombre">Clara Alicia Jalif de Bertranou 169</h5>
+  <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca131-177.pdf" target="_blank">El horizonte latinoamericano: ensayos en la revista Nosotros</a>
+  <h5 class="nombre">Clara Alicia Jalif de Bertranou 177</h5>
   <h4 class="titulo">CRÓNICA</h4>
   <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca131-201.pdf" target="_blank">El presidente de Brasil sanciona la creación de la UNILA</a>
   <h5 class="nombre">201</h5>

@@ -35,7 +35,7 @@
 
                      <div class="col-md-3">
                             <!-- Swiper -->
-                            <div class="pleca"><div class="pleca_va">NOVEDADES EDITORIALES</div></div>
+                            <div class="pleca"><div class="pleca_va">LIBROS CIALC</div></div>
                             <div class="events2_container">
                                    <div class="swiper-wrapper" style="height:300px; vertical-align:top;" itemscope itemtype="http://schema.org/ImageGallery">
                                      <?php

@@ -72,7 +72,7 @@
   <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca156-151.pdf" target="_blank">"Gente del otro lado": pitucos y pituquería en relatos sobre la violencia política en Perú</a>
   <h5 class="nombre">Alfredo RAMÍREZ MEMBRILLO 151</h5>
   <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca156-177.pdf" target="_blank">Cultura y política en los primeros años de la Revolución Cubana: del caso Padilla</a>
-  <h5 class="nombre">Edgar BALAGUERA 161</h5>
+  <h5 class="nombre">Carlos TELLO DÍAZ 161</h5>
   <a class="calink" href="<?=URL_PUBLIC?>cuadamer/textos/ca156-195.pdf" target="_blank">La seducción del concreto: el estadio xalapeño en tres publicaciones periódicas</a>
   <h5 class="nombre">Nelly PALAFOX LÓPEZ 195 </h5>
   <h4 class="titulo">RESEÑAS</h4>

@@ -64,7 +64,7 @@
 							<p>No se devuelven originales; a los autores se entregarán gratuitamente 25 sobretiros y un ejemplar del volumen en que su artículo
 								aparezca.</p>
 							<p>No nos hacemos responsables de trabajos no solicitados ni nos comprometemos a mantener correspondencia sobre los mismos.
-								Correo electrónico al que deberán enviarse las colaboraciones:</p>
+								Correo electrónico al que deberán enviarse las colaboraciones: redacuam@unam.mx</p>
 							<redacuam@unam.mx>.
 				</div>
 			</div>
