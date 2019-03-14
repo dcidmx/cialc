@@ -96,6 +96,9 @@
 		    padding: 17px 10px 18px;
 		}
 	}
+		.logocialc {
+		    max-width: 100%;
+		}
 </style>
     <section style="background-image: url(<?=URL_PUBLIC?>frontend/images/headers/cuadernos.png);" class="section-30 section-sm-40 section-md-66 section-lg-bottom-90 bg-gray-dark page-title-wrap">
       <div class="shell">
@@ -124,7 +127,7 @@
 					        <td><a href="javascript:;" data-file="CA-164" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num164portada.jpg"></a></td>
 					        <td><a href="javascript:;" data-file="CA-165" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num165portada.jpg"></a></td>
 					        <td><a href="javascript:;" data-file="CA-166" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num166portada.jpg"></a></td>
-					        
+
 					      </tr>
 					      <tr>
 					        <td><a href="javascript:;" data-file="CA-160" data-folder="cuadernos|epoca3|contenido" class="load-content"><img src="<?=URL_PUBLIC?>frontend/images/cuadernos/num160portada.jpg"></a></td>

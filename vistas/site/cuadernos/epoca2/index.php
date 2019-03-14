@@ -83,6 +83,9 @@
 			background-position: 0px 8%;
 		}
 	}
+	.logocialc {
+			max-width: 100%;
+	}
 </style>
     <section style="background-image: url(<?=URL_PUBLIC?>frontend/images/headers/cuadernos.png);" class="section-30 section-sm-40 section-md-66 section-lg-bottom-90 bg-gray-dark page-title-wrap">
       <div class="shell">
